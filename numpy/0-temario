@@ -1,0 +1,67 @@
+Dia 1: 
+-objetivo: configurar entorno de desarrollo y entender la importancia de NumPy.
+-actividades: 
+    -instalar NumPy en Linux: 'sudo apt-get install python3-numpy'
+    -configurar VSCode para desarrollo en Python.
+-ejercicios: crear un script que importe NumPy y muestre un mensaje de éxito
+
+Dia 2:
+-objetivo: trabajar con arreglos en NumPy.
+-actividades:
+    -crear arreglos unidimensionales y bidimensionales.
+    -realizar operaciones básicas con arreglos.
+-ejercicios: crear un arreglo bidimensional con números aleatorios.
+
+Dia 3:
+-objetivo: funciones y métodos básicos de NumPy.
+-actividades: 
+    -utilizar funciones como 'np.sum()', 'np.mean()', 'np.max()'.
+    -exportar métodos como 'arr.reshape()'.
+
+Dia 4:
+-objetivo: trabajar con funciones universales (unfuncs) de NumPy
+-actividades:
+    -conocer unfuncs como 'np.sin()', np.exp()', etc.
+    -aplicar unfuncs a arreglos.
+-ejercicio: calcular el coseno de todos los elementos de un arreglo.
+
+Dia 5:
+-objetivo: operaciones de algebra lineal con NumPy
+-actividades:
+    -multiplicación de matrices
+    -calcular la inversa y determinante de una matriz
+-ejercicio: resolver un sistema de ecuaciones lineales usando NumPy.
+
+Dia 6:
+-objetivo: trabajar con funciones de estadisticas y algebra lineal.
+-actividades:
+    -utilizar funciones como 'np.linalg.norm()' y 'np.linalg.eig()'
+    -explorar funciones estadísticas como 'np.median()' y 'np.std()'
+-ejercicio: calcular el valor propio de una matriz.
+
+Dia 7:
+-objetivo: aprender a concatenar y dividir arreglos.
+-actividades:
+    -concatenar arreglos horizontal y verticalmente.
+    -dividir arreglos usando 'np.split()'.
+-ejercicio: dividir un arreglo en dos partes iguales.
+
+Dia 8:
+-objetivo: filtrar y modificar datos en arreglos.
+-actividades: 
+    -filtrar elementos usando boolean indexing.
+    -modificar datos basados en condiciones.
+-ejercicio: filtrar elementos mayores que 5 en un arreglo y guardar el resultado en un arcchivo.
+
+Dia 9:
+-objetivo: introducción a la lectura y escritura de archivos con NumPy.
+-actividades: 
+    -leer datos desde un archivo usando 'np.loadtxt()'.
+    -guardar datos en un archivo usando 'np.savetext()'.
+-ejercicio: leer datos de un archivo y realizar operaciones básicas.
+
+Dia 10: 
+-objetivo: aplicar los conocimientos adquiridos en un proyecto práctico.
+-proyecto: 
+    -elegir un proyecto que involucre manipulación de datos usando NumPy.
+     
